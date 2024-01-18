@@ -1,4 +1,4 @@
-# Deep Learning based Disease Detection
+# Machine Learning based Disease Detection
 <p align="center">
   <img src="https://github.com/akhilchibber/Disease-Detection/blob/main/Disease-Detection.png?raw=true" alt="earthml Logo">
 </p>
